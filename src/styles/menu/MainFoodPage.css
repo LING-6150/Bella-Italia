@@ -1,0 +1,10 @@
+.main-food-page {
+    margin: auto;
+    padding: 10px;
+}
+
+.menu-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+    gap: 20px;
+}

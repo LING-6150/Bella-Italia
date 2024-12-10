@@ -1,0 +1,144 @@
+.contact-us-container {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+  background-color: #f9f9f9;
+}
+
+.contact-us-title {
+  font-size: 2.5rem;
+  color: #a52a2a;
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+.contact-us-subtitle {
+  font-size: 1rem;
+  color: #555;
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.contact-info {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin-bottom: 30px;
+}
+
+.location,
+.hours {
+  flex: 1;
+  margin: 20px;
+  max-width: 300px;
+}
+
+.location h2,
+.hours h2 {
+  color: #a52a2a;
+  font-size: 1.5rem;
+  margin-bottom: 10px;
+}
+
+.location p,
+.hours p {
+  font-size: 1rem;
+  color: #555;
+}
+
+.phone-number {
+  color: #0073e6;
+  text-decoration: none;
+}
+
+.phone-number:hover {
+  text-decoration: underline;
+}
+
+.location-image {
+  flex: 1;
+  text-align: center;
+  margin: 20px;
+}
+
+.location-photo {
+  max-width: 100%;
+  border-radius: 10px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.location-image a {
+  display: inline-block;
+}
+
+.location-image a:hover .location-photo {
+  transform: scale(1.05);
+  box-shadow: 0 6px 10px rgba(0, 0, 0, 0.2);
+}
+
+.contact-form {
+  max-width: 500px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.contact-input,
+.contact-textarea {
+  padding: 12px;
+  font-size: 1rem;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+}
+
+.contact-textarea {
+  resize: none;
+  height: 120px;
+}
+
+.recaptcha {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.contact-submit {
+  padding: 12px;
+  font-size: 1rem;
+  color: white;
+  background-color: #a52a2a;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.contact-submit:hover {
+  background-color: #8b0000;
+}
+
+.error-message {
+  color: #d9534f;
+  font-size: 0.9rem;
+}
+
+@media (max-width: 768px) {
+  .contact-info {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .location,
+  .hours {
+    max-width: 100%;
+    text-align: center;
+  }
+
+  .location-image {
+    margin: 10px 0;
+  }
+}
+
+
+  

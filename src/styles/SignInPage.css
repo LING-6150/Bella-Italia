@@ -1,0 +1,138 @@
+
+.sign-in-container {
+    display: flex;
+    height: 100vh;
+    font-family: Arial, sans-serif;
+  }
+  
+
+  .sign-in-image {
+    flex: 1;
+    background-color: #f5f5f5;
+  }
+  
+  .restaurant-image {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+  
+  .sign-in-form-container {
+    flex: 1;
+    padding: 40px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #ffffff;
+    box-shadow: -2px 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .sign-in-title {
+    font-size: 2rem;
+    color: #a52a2a;
+    margin-bottom: 10px;
+    text-align: center;
+  }
+
+  .sign-in-subtitle {
+    font-size: 1rem;
+    color: #555;
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  
+  .sign-in-form {
+    width: 100%;
+    max-width: 400px;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+  }
+  
+  .sign-in-input {
+    padding: 12px;
+    font-size: 1rem;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+  }
+  
+  .sign-in-button {
+    padding: 12px;
+    font-size: 1rem;
+    color: white;
+    background-color: #a52a2a;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .sign-in-button:hover {
+    background-color: #8b0000;
+  }
+  
+  .divider {
+    font-size: 0.9rem;
+    color: #999;
+    text-align: center;
+    margin: 15px 0;
+  }
+  
+  .magic-link-button {
+    padding: 12px;
+    font-size: 1rem;
+    color: #333;
+    background-color: #f5f5f5;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .magic-link-button:hover {
+    background-color: #e0e0e0;
+  }
+  
+  .social-button {
+    padding: 12px;
+    font-size: 1rem;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .facebook-button {
+    background-color: #3b5998;
+  }
+  
+  .facebook-button:hover {
+    background-color: #2e4587;
+  }
+  
+  .google-button {
+    background-color: #db4437;
+  }
+  
+  .google-button:hover {
+    background-color: #c23324;
+  }
+  
+  .sign-in-footer {
+    font-size: 0.9rem;
+    color: #777;
+    margin-top: 20px;
+    text-align: center;
+  }
+  
+  .sign-in-footer a {
+    color: #a52a2a;
+    text-decoration: none;
+  }
+  
+  .sign-in-footer a:hover {
+    text-decoration: underline;
+  }
+  

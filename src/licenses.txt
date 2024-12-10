@@ -1,0 +1,45 @@
+logo.avif from https://images.unsplash.com/photo-1464306208223-e0b4495a5553?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+bruschetta.avif from https://images.unsplash.com/photo-1506280754576-f6fa8a873550?q=80&w=3087&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+caprese.avif from https://images.unsplash.com/photo-1667207888295-94752c1ee4e7?q=80&w=3087&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+arancini.avif from https://plus.unsplash.com/premium_photo-1667807521010-5a3210f2ab7d?q=80&w=2812&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+antipasto.avif from https://plus.unsplash.com/premium_photo-1723478679050-453af0ba3e41?q=80&w=2862&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+calamari.avif from https://images.unsplash.com/photo-1550942356-fcfc6eba2acb?q=80&w=2821&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+carbonara.avif from https://images.unsplash.com/photo-1588013273468-315fd88ea34c?q=80&w=2938&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+penne-vodka.avif https://media.istockphoto.com/id/1302647359/photo/penne-pasta-alla-vodka-italian-dinner.jpg?s=1024x1024&w=is&k=20&c=k7_vdzMldRPkkEOYVlfAhIsxfAoHH6LqnqYAZt-D3No=
+lasagna.avif from https://images.unsplash.com/photo-1574894709920-11b28e7367e3?q=80&w=2835&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+fettuccine-alfredo.avif from https://images.unsplash.com/photo-1693609929945-b01ae4f2d602?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+ravioli.avif from https://images.unsplash.com/photo-1659813952313-eb81e5b3fbdd?q=80&w=2865&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+chicken-parm.jpeg from https://img.taste.com.au/_U6o8vhK/taste/2016/11/chicken-and-eggplant-parmigiana-108318-1.jpeg
+osso-buco.avif from https://images.unsplash.com/photo-1529042410759-befb1204b468?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8aXRhbGlhbiUyMEJyYWlzZWQlMjB2ZWFsJTIwc2hhbmt8ZW58MHx8MHx8fDA%3D
+saltimbocca.avif from https://images.unsplash.com/photo-1684950888991-224571bf3910?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8U2FsdGltYm9jY2ElMjBhbGxhJTIwUm9tYW5hfGVufDB8fDB8fHww
+seafood-risotto.avif from https://images.unsplash.com/photo-1485921325833-c519f76c4927?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fFNlYWZvb2QlMjBSaXNvdHRvJTIwKFJpc290dG8lMjBhaSUyMEZydXR0aSUyMGRpJTIwTWFyZSl8ZW58MHx8MHx8fDA%3D
+grilled-branzino.avif from https://images.unsplash.com/photo-1523813301608-f54a198f6b5f?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8R3JpbGxlZCUyMEJyYW56aW5vfGVufDB8fDB8fHww
+cocktail1.avif from https://unsplash.com/photos/white-dice-on-white-wine-cup-BclEwweDzZk
+cocktail2.avif from https://plus.unsplash.com/premium_photo-1698253784460-d74587ea6af1?q=80&w=3087&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+cocktail3.avif from https://images.unsplash.com/photo-1668724774786-a42d32446a48?q=80&w=2934&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+sparkling-water.avif from https://plus.unsplash.com/premium_photo-1731675875948-67be8cac73f8?q=80&w=2942&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+lemonade.avif from https://images.unsplash.com/photo-1523677011781-c91d1bbe2f9e?q=80&w=3093&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+espresso.avif from https://plus.unsplash.com/premium_photo-1669687924558-386bff1a0469?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8ZXNwcmVzc298ZW58MHx8MHx8fDA%3D
+wine1.avif from https://images.unsplash.com/photo-1675668410450-7008c2e02c01?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+wine2.avif from https://images.unsplash.com/photo-1615212995084-b8fa1724617b?q=80&w=2864&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+wine3.avif from https://images.unsplash.com/photo-1582673937754-8d0cfed5dcc9?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mjh8fHJlZCUyMHdpbmV8ZW58MHx8MHx8fDA%3D
+whitewine1.avif https://images.unsplash.com/photo-1635496732393-3a09812cce66?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8UGlub3QlMjBHcmlnaW98ZW58MHx8MHx8fDA%3D
+whitewine2.avif from https://plus.unsplash.com/premium_photo-1674852175694-008fc8f96d23?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8d2hpdGUlMjB3aW5lfGVufDB8fDB8fHww
+whitewine3.avif from https://images.unsplash.com/photo-1642556288591-4b27911731cf?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8d2hpdGUlMjB3aW5lfGVufDB8fDB8fHww
+tiramisu.avif from https://plus.unsplash.com/premium_photo-1695028378225-97fbe39df62a?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8dGlyYW1pc3V8ZW58MHx8MHx8fDA%3D
+cannoli.avif from https://images.unsplash.com/photo-1667804957652-565b39dcccd4?q=80&w=2913&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+pannacotta.avif from https://plus.unsplash.com/premium_photo-1713913281148-1098c675ff3a?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8cGFubmFjb3R0YXxlbnwwfHwwfHx8MA%3D%3D
+affogato.avif from https://plus.unsplash.com/premium_photo-1692912807667-3bb177ca4614?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YWZmb2dhdG98ZW58MHx8MHx8fDA%3D
+gelato.avif from https://images.unsplash.com/photo-1532537455099-5025af0bac65?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Z2VsYXRvfGVufDB8fDB8fHww
+ricottacheesecake.avif from https://plus.unsplash.com/premium_photo-1722686461601-b2a018a4213b?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Y2hlZXNlY2FrZXxlbnwwfHwwfHx8MA%3D%3D
+vip.avif from https://plus.unsplash.com/premium_photo-1728613749980-cd3e758183df?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDl8fHZpcHxlbnwwfHwwfHx8MA%3D%3D
+interior1.avif from https://images.unsplash.com/photo-1494346480775-936a9f0d0877?q=80&w=2916&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+interior2.avif from https://images.unsplash.com/photo-1414235077428-338989a2e8c0?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+food1.avif from https://images.unsplash.com/photo-1488992783499-418eb1f62d08?q=80&w=3089&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+food2.avif from https://plus.unsplash.com/premium_photo-1673108852141-e8c3c22a4a22?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+restaurant.avif from https://images.unsplash.com/photo-1505275350441-83dcda8eeef5?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fHJlc3RhdXJhbnR8ZW58MHx8MHx8fDA%3D
+Bella.avif from https://images.unsplash.com/photo-1481833761820-0509d3217039?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjB8fHJlc3RhdXJhbnR8ZW58MHx8MHx8fDA%3D
+
+
+
+
